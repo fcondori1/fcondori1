@@ -5,6 +5,10 @@
 
 Here are some ideas to get you started:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esin87&layout=compact)](https://github.com/fcondori1/github-readme-stats)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
